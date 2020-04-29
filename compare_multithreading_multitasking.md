@@ -11,8 +11,8 @@ VLC media player, where one thread is used for opening the VLC media player, one
 ![Visual Representation Example Of VLC Player](https://media.geeksforgeeks.org/wp-content/cdn-uploads/vlc.jpg)
 
 #### Advantages
-    -   As we know that multi threading is less costly.
-    -   Threads share resources of the parent process, creating threads and switching between them is comparatively easy.
-    -   Better use of cache storage by utilization of resources.
-    -   Its enhanced performance by decreased development time.
-    -   Simultaneous and parallelized occurrence of tasks.
+ - As we know that multi threading is less costly.
+ - Threads share resources of the parent process, creating threads and switching between them is comparatively easy.
+ - Better use of cache storage by utilization of resources.
+ - Its enhanced performance by decreased development time.
+ - Simultaneous and parallelized occurrence of tasks.
