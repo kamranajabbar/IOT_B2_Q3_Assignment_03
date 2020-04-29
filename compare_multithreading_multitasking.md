@@ -1,6 +1,6 @@
 ## Comparison Between Multi-threading and Multi-tasking
 
-### Multi-threading
+### Multithreading
 As the name itself suggests, when tasks sharing a common resource is called multi-threading.
 Multi threading is the ability of a process to manage its use by more than one users at a time and to manage multiple requests by the same user without having to have multiple copies of the program.
 
@@ -16,3 +16,9 @@ VLC media player, where one thread is used for opening the VLC media player, one
  - Better use of cache storage by utilization of resources.
  - Its enhanced performance by decreased development time.
  - Simultaneous and parallelized occurrence of tasks.
+
+
+ ### Multitasking
+ Multitasking refers to execution of multiple tasks. it can take place when someone tries to perform two tasks simultaneously. Multitasking is a logical extension of multi programming. Multitasking refers to having multiple programs, processes, tasks, threads running at the same time. This term is used in modern operating systems when multiple tasks share a common processing resource suc as Memory, CPU etc...
+
+ 
