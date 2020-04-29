@@ -7,3 +7,5 @@ Multi threading is the ability of a process to manage its use by more than one u
 #### Example of Multi threading
 VLC media player, where one thread is used for opening the VLC media player, one thread for playing a particular song and another thread for adding new songs to the playlist.
 
+#### Visual Representation
+[![N|Visual Representation Example Of VLC Player](https://media.geeksforgeeks.org/wp-content/cdn-uploads/vlc.jpg)]
