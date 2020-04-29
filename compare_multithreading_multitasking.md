@@ -7,6 +7,26 @@ Multi threading is the ability of a process to manage its use by more than one u
 #### Example of Multithreading
 VLC media player, where one thread is used for opening the VLC media player, one thread for playing a particular song and another thread for adding new songs to the playlist.
 
+#### Code Example of Multithreading
+```sh
+use std::thread;
+use std::time::Duration;
+
+fn main() {
+    thread::spawn(|| {
+        for i in 1..10 {
+            println!("hi number {} from the spawned thread!", i);
+            thread::sleep(Duration::from_millis(1));
+        }
+    });
+
+    for i in 1..5 {
+        println!("hi number {} from the main thread!", i);
+        thread::sleep(Duration::from_millis(1));
+    }
+}
+```
+
 #### Visual Representation
 ![Visual Representation Example Of VLC Player](https://media.geeksforgeeks.org/wp-content/cdn-uploads/vlc.jpg)
 
