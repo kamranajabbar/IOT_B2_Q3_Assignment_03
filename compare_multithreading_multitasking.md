@@ -19,10 +19,17 @@ VLC media player, where one thread is used for opening the VLC media player, one
 
 
 ### Multitasking
-Multitasking refers to execution of multiple tasks. it can take place when someone tries to perform two tasks simultaneously. Multitasking is a logical extension of multi programming. Multitasking refers to having multiple programs, processes, tasks, threads running at the same time. This term is used in modern operating systems when multiple tasks share a common processing resource suc as Memory, CPU etc...
+Multitasking refers to execution of multiple tasks. it can take place when someone tries to perform two tasks simultaneously. Multitasking is a logical extension of multi programming. Multitasking refers to having multiple programs, processes, tasks, threads running at the same time. This term is used in modern operating systems when multiple tasks share a common processing resource CPU.
 
 #### Example of Multitasking
 Play video, add or update documents in Microsoft Office, surf internet via IE or Google Chrome all simultaneously, this is accomplished by means of multitasking.
 
 #### Visual Representation
 ![Visual Representation Example Of Multitasking](https://media.geeksforgeeks.org/wp-content/cdn-uploads/multitasking.jpg)
+
+#### Advantages
+- Multitasking shares common resource like CPU.
+- Multitasking allows to perform more than one task at a time.
+- In multitasking switching between tasks happen.
+- Multiprocessing is part of multitasking.
+- In multitasking, process do not share the same memory.
