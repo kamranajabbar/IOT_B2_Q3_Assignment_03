@@ -1,2 +1,2 @@
-# Comparesion B/W Multithreading and Multitasking
+# Comparison B/W Multi-threading and Multi-tasking
 
