@@ -8,7 +8,7 @@ Multi threading is the ability of a process to manage its use by more than one u
 VLC media player, where one thread is used for opening the VLC media player, one thread for playing a particular song and another thread for adding new songs to the playlist.
 
 #### Visual Representation
-[![Visual Representation Example Of VLC Player](https://media.geeksforgeeks.org/wp-content/cdn-uploads/vlc.jpg)]
+[![Visual Representation Example Of VLC Player](https://media.geeksforgeeks.org/wp-content/cdn-uploads/vlc.jpg) Visual Representation Example Of VLC Player]
 
 #### Advantages
     -   As we know that multi threading is less costly.
