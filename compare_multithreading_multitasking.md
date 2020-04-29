@@ -1,2 +1,2 @@
-### Comparison Between Multi-threading and Multi-tasking
+## Comparison Between Multi-threading and Multi-tasking
 
